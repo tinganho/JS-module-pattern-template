@@ -12,7 +12,7 @@ var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 	-------------------------------------------------------
 	*/
 
-	// Current list that is showing in slide show
+	// Description of your variable
 	YOUR_FIRST_VARIABLE = null
 
 	
@@ -23,7 +23,7 @@ var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 	-------------------------------------------------------
 	*/
 
-	// Ticket text show in slide show
+	// Description of your variable
 	SC.your_first_public_variable;
 
 	/**
