@@ -1,9 +1,9 @@
 
 
-var SC = (function($){
+var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 
 	
-	var SC = {}, // Global variable
+	var SHORT_NAME_GLOBAL_VARIABLE = {}, // Shortname use application name followed by a C, like for Twitter, use TC.
 	
 	
 	/* 
