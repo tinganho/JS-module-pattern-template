@@ -1,9 +1,8 @@
 
-
 var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 
 	
-	var SHORT_NAME_GLOBAL_VARIABLE = {}, // Shortname use application name followed by a C, like for Twitter, use TC.
+	var TC = {}, // Shortname use application name followed by a C, like for Twitter, use TC.
 	
 	
 	/* 
@@ -24,14 +23,14 @@ var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 	*/
 
 	// Description of your variable
-	SC.your_first_public_variable;
+	TC.your_first_public_variable;
 
 	/**
 	 *  @object 
 	 * 	  Example object, this is an example project
 	 *  @method
 	 */
-	SC.example_object = {
+	TC.example_object = {
 		method1: function () {
 
 		}
@@ -48,7 +47,7 @@ var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 	/**
 	 *	@constructor
 	 */
-	SC.constructor = function () {
+	TC.constructor = function () {
 	
 	}
 
@@ -72,10 +71,10 @@ var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 	
 
 	// Execute constructor
-	SC.constructor();
+	TC.constructor();
 
 	// Return object
-	return SC;
+	return TC;
 	
 
 })(jQuery);
