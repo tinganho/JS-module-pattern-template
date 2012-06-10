@@ -2,4 +2,4 @@ JS Module pattern
 
 A simple JS module pattern template for use in JS projects
 
-It helps you define an immediate function that contains private variables, public variables, private functions and public functions
+It helps you define an immediate function that contains private variables, public variables, private functions, public functions and a constructor
