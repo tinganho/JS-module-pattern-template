@@ -1,7 +1,7 @@
 var SHORT_NAME_GLOBAL_VARIABLE = (function($){
 
 	
-	var C = {}, // Shortname use application name followed by a C, like for Twitter, use TC.
+	var C = {}, // Object variable that is used globally accross application specific code
 	
 	
 	/* 
